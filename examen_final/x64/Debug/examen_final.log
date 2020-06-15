@@ -1,0 +1,22 @@
+﻿  Source.cpp
+c:\users\lfrec\source\repos\examen_final\examen_final\source.cpp(84): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\lfrec\source\repos\examen_final\examen_final\source.cpp(85): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\lfrec\source\repos\examen_final\examen_final\source.cpp(123): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\lfrec\source\repos\examen_final\examen_final\source.cpp(124): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\lfrec\source\repos\examen_final\examen_final\source.cpp(125): warning C4244: '=': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+c:\users\lfrec\source\repos\examen_final\examen_final\source.cpp(146): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lfrec\source\repos\examen_final\examen_final\source.cpp(147): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lfrec\source\repos\examen_final\examen_final\source.cpp(148): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  examen_final.vcxproj -> C:\Users\lfrec\source\repos\examen_final\x64\Debug\examen_final.exe
